@@ -1,6 +1,6 @@
 * {
     box-sizing: border-box;
-    background-color: black;
+    background-color: lightskyblue;
   }
   
   body {
@@ -13,11 +13,11 @@
     float: left;
     width: 13%;
     padding: 0 10px;
-    background-color: #2196F3
+    background-color: lightskyblue
   }
   
   /* Remove extra left and right margins, due to padding in columns */
-  .row {margin: 0 -5px;}
+  /* .row {margin: 0 -5px;} */
   
   /* Clear floats after the columns */
   .row:after {
